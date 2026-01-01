@@ -72,11 +72,17 @@ This is the place while we finally deploy/execute the emails to the target.
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/06d80e40-8def-4bea-bcb6-82fefdc62dd1" /><br>
 
 ***
-
+## Gmail Screenshots
 <img width="1920" height="829" alt="Image" src="https://github.com/user-attachments/assets/64da24a6-1099-4bc6-bfc8-ad035bbed309" /><br>
 
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/ea7ade80-bfa3-44db-beea-c34f7d1d3101" />
 
 ***
+## Shows all the info about the atatck
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/cbc1c2d3-ec7e-400d-b1fe-741091cbbd55" /><br>
 
-# More Features COMING SOON!!
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/696b3149-15d4-470d-afc8-eae4c2b1558f" />
+
+***
+
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/814e1bd4-020d-491e-aefc-8b2365ddae17" />
