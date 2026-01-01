@@ -49,5 +49,23 @@ This is the page where we design the email templete on how should it look like
   - Add tracking Image checkbox☑ for better tracking over the email.
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/2feab529-99c6-4e3a-9980-6707ea5c2cc0" />
 
+## User's & Groups
+This is the place to set the *target/victims* and indivudals or as a group if you want to send in a bulk.
+   - Name
+   - User name, email, add
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/3dfdf31d-6f4e-47e5-ae38-367066fa6393" />
+
+## Campaign
+This is the place while we finally deploy/execute the emails to the target.
+  - Name
+  - Email Template: Select from the existing email templates(which we created).
+  - Landing Page: Select from the existing Landing page templates(which we created).
+  - URL: To receive the request
+  - Launch Date
+  - Sending Profile: The name to show on the email
+  - Groups: Select the group which we created for the targets.
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/63a9a2b8-b428-4bd8-ae11-2d121fe8c331" /><br>
+
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/c5269bc7-f5b7-483d-a1cd-c1d6e5f9cbc2" />
 
 # More Features COMING SOON!!
