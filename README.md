@@ -68,4 +68,15 @@ This is the place while we finally deploy/execute the emails to the target.
 
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/c5269bc7-f5b7-483d-a1cd-c1d6e5f9cbc2" />
 
+## Analysis
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/06d80e40-8def-4bea-bcb6-82fefdc62dd1" /><br>
+
+***
+
+<img width="1920" height="829" alt="Image" src="https://github.com/user-attachments/assets/64da24a6-1099-4bc6-bfc8-ad035bbed309" /><br>
+
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/ea7ade80-bfa3-44db-beea-c34f7d1d3101" />
+
+***
+
 # More Features COMING SOON!!
