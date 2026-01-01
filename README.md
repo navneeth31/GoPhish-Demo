@@ -21,16 +21,24 @@ Typical controlled lab baseline used:
 # Features
 ## Dasboard
 
-This is the base dashboard when Firstly viewing the *GoPhish* platform(for the first Time).
+This is the dashboard when viewing the *GoPhish* platform.
 
 <img width="1922" height="948" alt="Image" src="https://github.com/user-attachments/assets/d8039931-0985-4ac1-9069-28bf5030e7f2" />
 
-## Sending Profile
-This is basicaaly teh targeted 🎯 Profile Where we need to add their details like:
+## Sending/sender Profile
+This is basically the sender Profile. Where we need to add their details like:
 
-  - Name: to identify the target easily.
-  - SMTP from: which is the from address.
-  - Username & Password: Where for security purpose we need to create dummy app profileusing your gmail account [click here](#) for the process
+  - Name
+  - SMTP from
+  - Username & Password
 <img width="1922" height="948" alt="Image" src="https://github.com/user-attachments/assets/6170a663-269c-413b-85e0-780d912d58c5" />
+
+## Landing Page
+This is the page where we design a replicate of other pages or just create one using the *HTML* code or the *import site* to manupilate the target that it is the legit website he wanted to visit.
+
+  - Name: for reference
+  - HTML code or import site
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/aab15154-9bc7-4d4e-90e7-7ebce6b88843" />
+
 
 # More Features COMING SOON!!
