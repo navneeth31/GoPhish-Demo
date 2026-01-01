@@ -40,5 +40,14 @@ This is the page where we design a replicate of other pages or just create one u
   - HTML code or import site
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/aab15154-9bc7-4d4e-90e7-7ebce6b88843" />
 
+## Email Template
+This is the page where we design the email templete on how should it look like 
+  - Name: for email template reference
+  - Employee Sender: the sending email to show on the website
+  - Subject
+  - Text / HTML: In this we can type something or just paste the *HTML* code
+  - Add tracking Image checkbox☑ for better tracking over the email.
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/2feab529-99c6-4e3a-9980-6707ea5c2cc0" />
+
 
 # More Features COMING SOON!!
