@@ -1,4 +1,4 @@
-# GoPhish-Demo (VirtualBox Lab)
+# GoPhish-Demo
 
 > *Important:* This repository documents a controlled lab exercise run in an isolated VirtualBox environment *for educational, offensive, and forensic analysis only*. It does *not* include, *nor* will it provide, exploit code, working malware samples, operational playbooks, or step-by-step instructions that would enable replication or distribution of malicious tools. Do not attempt to run, reproduce, or distribute malware outside of authorized, legally compliant lab environments.
 <img width="100%" height="200" alt="Image" src="https://github.com/user-attachments/assets/863b32ee-f76a-485f-a7b0-e6aed5912394" />
@@ -78,7 +78,7 @@ This is the place while we finally deploy/execute the emails to the target.
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/ea7ade80-bfa3-44db-beea-c34f7d1d3101" />
 
 ***
-## Shows all the info about the atatck
+## Shows all the info about the attack
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/cbc1c2d3-ec7e-400d-b1fe-741091cbbd55" /><br>
 
 <img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/696b3149-15d4-470d-afc8-eae4c2b1558f" />
